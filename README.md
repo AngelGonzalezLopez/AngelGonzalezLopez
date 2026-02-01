@@ -21,7 +21,7 @@
 ---
 <h2 align="center">Tech Stack</h2>
  
-<p align=:center">
+<p align=:"center">
   <img src="https://img.shields.io/badge/HTML-161b22?style=flat&logo=html5">
   <img src="https://img.shields.io/badge/CSS-161b22?style=flat&logo=css3&logoColor=blue">
   <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat&logo=javascript">
@@ -32,7 +32,7 @@
 ---
 <h2 align="center">Soft Skills</h2>
 
-<p> 🧠 Problem Solving · 📚 Self-learning · 🤝 Teamwork · 🔄 Adaptability · ✅ Responsibility </p>
+<p align="center"> 🧠 Problem Solving · 📚 Self-learning · 🤝 Teamwork · 🔄 Adaptability · ✅ Responsibility </p>
 
  
 
@@ -44,7 +44,7 @@
   <tr>
     <td width="50%">
       <img src="ismac.png" alt="ISMAC">
-      <h3>ISMAC</h3>
+      <h3> <a href="https://isma-c.com/" target="_blank">ISMAC</a></h3>
        <p>
         <strong>EN:</strong> Development and maintenance of web systems used in ISMAC,
         focused on improving processes and implementing new features.<br>
