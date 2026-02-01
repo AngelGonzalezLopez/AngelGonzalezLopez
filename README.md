@@ -32,7 +32,7 @@
 ---
 <h2 align="center">Soft Skills</h2>
 
-🧠 Problem Solving · 📚 Self-learning · 🤝 Teamwork · 🔄 Adaptability · ✅ Responsibility 
+<p> 🧠 Problem Solving · 📚 Self-learning · 🤝 Teamwork · 🔄 Adaptability · ✅ Responsibility </p>p>
 
  
 
@@ -42,35 +42,27 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%">
       <img src="ismac.png" alt="ISMAC">
       <h3>ISMAC</h3>
-      <p>
+       <p>
         <strong>EN:</strong> Development and maintenance of web systems used in ISMAC,
         focused on improving processes and implementing new features.<br>
         <strong>ES:</strong> Desarrollo y mantenimiento del sistema web utilizado en ISMAC,
         enfocado en la mejora de procesos y la implementación de nuevas funcionalidades.
       </p>
     </td>
-
-    <td width="50%" valign="top">
+    <td width="50%">
       <img src="ismac-capacitaciones.png" alt="ISMAC Capacitaciones">
       <h3>ISMAC Capacitaciones</h3>
       <p>
-        <strong>EN:</strong> Web platform for training and courses used in ISMAC,
-        contributing to system development, optimization, and user experience improvements.<br>
-        <strong>ES:</strong> Plataforma web de capacitación y cursos utilizada en ISMAC,
-        contribuyendo al desarrollo del sistema, su optimización y la mejora de la experiencia del usuario.
+        <strong>EN:</strong> Web platform for training and courses used in ISMAC, contributing to system
+        development, optimization, and user experience improvements.<br>
+        <strong>ES:</strong> Plataforma web de capacitación y cursos utilizada en ISMAC, contribuyendo al
+        desarrollo del sistema, su optimización y la mejora de la experiencia del usuario.
       </p>
     </td>
   </tr>
 </table>
-
-  </tr>
-</table>
-    </td>
-  </tr>
-</table>
-
 
 
