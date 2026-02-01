@@ -67,11 +67,14 @@
         </a>
       </h3>
       <p>
-        <strong>EN:</strong> Web platform for training and courses used in ISMAC, contributing to system
-        development, optimization, and user experience improvements.<br>
-        <strong>ES:</strong> Plataforma web de capacitación y cursos utilizada en ISMAC, contribuyendo al
-        desarrollo del sistema, su optimización y la mejora de la experiencia del usuario.
+        <strong>EN:</strong> Web platform for training and courses used in ISMAC,
+        contributing to system development, optimization, and user experience improvements.<br>
+        <strong>ES:</strong> Plataforma web de capacitación y cursos utilizada en ISMAC,
+        contribuyendo al desarrollo del sistema, su optimización y la mejora de la experiencia del usuario.
       </p>
+    </td>
+  </tr>
+</table>
     </td>
   </tr>
 </table>
