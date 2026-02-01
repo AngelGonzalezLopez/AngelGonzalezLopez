@@ -19,9 +19,9 @@
 
 
 ---
-
-## Tech Stack
-<p>
+<h2 align="center">Tech Stack</h2>
+ 
+<p align=:center">
   <img src="https://img.shields.io/badge/HTML-161b22?style=flat&logo=html5">
   <img src="https://img.shields.io/badge/CSS-161b22?style=flat&logo=css3&logoColor=blue">
   <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat&logo=javascript">
@@ -30,36 +30,50 @@
 </p>
 
 ---
+<h2 align="center">Soft Skills</h2>
 
-## Soft Skills
-- Problem Solving  
-- Self-learning  
-- Teamwork  
-- Adaptability  
-- Responsibility  
+🧠 Problem Solving · 📚 Self-learning · 🤝 Teamwork · 🔄 Adaptability · ✅ Responsibility 
+
+ 
+
 
 ---
-
-## Current Projects
+<h2 align ="center"> Current Proyects </h2>h2>
 
 <table>
   <tr>
     <td width="50%">
-      <img src="ismac.png" alt="ISMAC">
-      <h3>ISMAC</h3>
+      <a href="https://isma-c.com/" target="_blank">
+        <img src="ismac.png" alt="ISMAC">
+      </a>
+      <h3>
+        <a href="https://isma-c.com/" target="_blank">ISMAC</a>
+      </h3>
       <p>
-        Development and maintenance of institutional web systems,
-        proposing improvements and implementing new features.
+        <strong>EN:</strong> Development and maintenance of web systems used in ISMAC,
+        focused on improving processes and implementing new features.<br>
+        <strong>ES:</strong> Desarrollo y mantenimiento del sistemas web utilizado en ISMAC,
+        enfocados en la mejora de procesos y la implementación de nuevas funcionalidades.
       </p>
     </td>
+
     <td width="50%">
-      <img src="ismac-capacitaciones.png" alt="ISMAC Capacitaciones">
-      <h3>ISMAC Capacitaciones</h3>
+      <a href="https://isma-c.com/CapacitateConISMAC/loginCapacitate.php" target="_blank">
+        <img src="ismac-capacitaciones.png" alt="ISMAC Capacitaciones">
+      </a>
+      <h3>
+        <a href="https://isma-c.com/CapacitateConISMAC/loginCapacitate.php" target="_blank">
+          ISMAC Capacitaciones
+        </a>
+      </h3>
       <p>
-        Web platform focused on training and courses, contributing
-        to system development and optimization.
+        <strong>EN:</strong> Web platform for training and courses used in ISMAC, contributing to system
+        development, optimization, and user experience improvements.<br>
+        <strong>ES:</strong> Plataforma web de capacitación y cursos utilizada en ISMAC, contribuyendo al
+        desarrollo del sistema, su optimización y la mejora de la experiencia del usuario.
       </p>
     </td>
   </tr>
 </table>
+
 
