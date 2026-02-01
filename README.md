@@ -43,12 +43,8 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://isma-c.com/" target="_blank">
-        <img src="ismac.png" alt="ISMAC">
-      </a>
-      <h3>
-        <a href="https://isma-c.com/" target="_blank">ISMAC</a>
-      </h3>
+      <img src="ismac.png" alt="ISMAC">
+      <h3>ISMAC</h3>
       <p>
         <strong>EN:</strong> Development and maintenance of web systems used in ISMAC,
         focused on improving processes and implementing new features.<br>
@@ -58,14 +54,8 @@
     </td>
 
     <td width="50%" valign="top">
-      <a href="https://isma-c.com/CapacitateConISMAC/loginCapacitate.php" target="_blank">
-        <img src="ismac-capacitaciones.png" alt="ISMAC Capacitaciones">
-      </a>
-      <h3>
-        <a href="https://isma-c.com/CapacitateConISMAC/loginCapacitate.php" target="_blank">
-          ISMAC Capacitaciones
-        </a>
-      </h3>
+      <img src="ismac-capacitaciones.png" alt="ISMAC Capacitaciones">
+      <h3>ISMAC Capacitaciones</h3>
       <p>
         <strong>EN:</strong> Web platform for training and courses used in ISMAC,
         contributing to system development, optimization, and user experience improvements.<br>
@@ -73,6 +63,9 @@
         contribuyendo al desarrollo del sistema, su optimización y la mejora de la experiencia del usuario.
       </p>
     </td>
+  </tr>
+</table>
+
   </tr>
 </table>
     </td>
