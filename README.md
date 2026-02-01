@@ -9,10 +9,14 @@
 
 ---
 
-## About Me
-Web systems developer working on real projects in a microbusiness.  
-I analyze requirements, propose solutions, and build web systems.  
-Currently a student with hands-on experience in real environments.
+<h2 align="center">About Me</h2>
+
+<p align="center">
+💼 <strong>Web systems developer</strong> working on real projects in a microbusiness.<br>
+🧠 Analyzing requirements, proposing solutions, and building web systems.<br>
+🎓 Student with hands-on experience in real environments.
+</p>
+
 
 ---
 
