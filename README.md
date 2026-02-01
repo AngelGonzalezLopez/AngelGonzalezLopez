@@ -32,7 +32,7 @@
 ---
 <h2 align="center">Soft Skills</h2>
 
-<p> 🧠 Problem Solving · 📚 Self-learning · 🤝 Teamwork · 🔄 Adaptability · ✅ Responsibility </p>p>
+<p> 🧠 Problem Solving · 📚 Self-learning · 🤝 Teamwork · 🔄 Adaptability · ✅ Responsibility </p>
 
  
 
