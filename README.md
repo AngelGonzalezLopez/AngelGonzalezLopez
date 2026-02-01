@@ -38,11 +38,11 @@
 
 
 ---
-<h2 align ="center"> Current Proyects </h2>h2>
+<h2 align="center">Current Projects</h2>
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <a href="https://isma-c.com/" target="_blank">
         <img src="ismac.png" alt="ISMAC">
       </a>
@@ -52,12 +52,12 @@
       <p>
         <strong>EN:</strong> Development and maintenance of web systems used in ISMAC,
         focused on improving processes and implementing new features.<br>
-        <strong>ES:</strong> Desarrollo y mantenimiento del sistemas web utilizado en ISMAC,
-        enfocados en la mejora de procesos y la implementación de nuevas funcionalidades.
+        <strong>ES:</strong> Desarrollo y mantenimiento del sistema web utilizado en ISMAC,
+        enfocado en la mejora de procesos y la implementación de nuevas funcionalidades.
       </p>
     </td>
 
-    <td width="50%">
+    <td width="50%" valign="top">
       <a href="https://isma-c.com/CapacitateConISMAC/loginCapacitate.php" target="_blank">
         <img src="ismac-capacitaciones.png" alt="ISMAC Capacitaciones">
       </a>
@@ -75,5 +75,6 @@
     </td>
   </tr>
 </table>
+
 
 
