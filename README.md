@@ -22,11 +22,11 @@
 <h2 align="center">Tech Stack</h2>
  
 <p align=:"center">
-  <img src="https://img.shields.io/badge/HTML-161b22?style=flat&logo=html5">
-  <img src="https://img.shields.io/badge/CSS-161b22?style=flat&logo=css3&logoColor=blue">
-  <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat&logo=javascript">
-  <img src="https://img.shields.io/badge/Java-161b22?style=flat&logo=openjdk">
-  <img src="https://img.shields.io/badge/PHP-161b22?style=flat&logo=php">
+  <img src="https://img.shields.io/badge/HTML-161b22?style=flat&logo=html5" align=:"center">
+  <img src="https://img.shields.io/badge/CSS-161b22?style=flat&logo=css3&logoColor=blue" align=:"center">
+  <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat&logo=javascript" align=:"center">
+  <img src="https://img.shields.io/badge/Java-161b22?style=flat&logo=openjdk" align=:"center">
+  <img src="https://img.shields.io/badge/PHP-161b22?style=flat&logo=php" align=:"center">
 </p>
 
 ---
@@ -54,7 +54,7 @@
     </td>
     <td width="50%">
       <img src="ismac-capacitaciones.png" alt="ISMAC Capacitaciones">
-      <h3>ISMAC Capacitaciones</h3>
+      <h3><a href="https://isma-c.com/CapacitateConISMAC/loginCapacitate.php" target="_blank">ISMAC Capacitaciones</a></h3>
       <p>
         <strong>EN:</strong> Web platform for training and courses used in ISMAC, contributing to system
         development, optimization, and user experience improvements.<br>
