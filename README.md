@@ -41,9 +41,11 @@
 
 
 <h2 align="center">MY CERTIFICATIONS</h2>
-<a href="CSS_Essentials_certificate.pdf" target="_blank"> CSS ESSENTIALS </a>
-<a href="HTML_Essentials_certificate.pdf" target="_blank"> HTML ESSENTIALS </a>
-<a href="Python_Essentials_1_certificate.pdf" target="_blank"> PYTHON ESSENTIALS 1 </a>
+<p align="center">
+<a href="CSS_Essentials_certificate.pdf" target="_blank"> CSS ESSENTIALS </a> <br>
+<a href="HTML_Essentials_certificate.pdf" target="_blank"> HTML ESSENTIALS </a> <br>
+<a href="Python_Essentials_1_certificate.pdf" target="_blank"> PYTHON ESSENTIALS 1 </a> <br>
+</p>
 
 
 ---
