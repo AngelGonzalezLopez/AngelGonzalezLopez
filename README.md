@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/angel-gonzalez-lopez-u1118/" target="_blank"> LinkedIn </a>
+<a href="https://www.linkedin.com/in/angel-gonzalez-lopez-u1118/" target="_blank"> LinkedIn </a> <br>
 <a href="Angel_Gonzalez_Lopez_CV.pdf" target="_blank"> My Curriculum Vitae </a>
 </p>
 
