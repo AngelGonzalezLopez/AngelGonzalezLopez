@@ -6,6 +6,7 @@
 <p align="center">
   Web Systems Developer · Student · Always learning
 </p>
+<a href="https://www.linkedin.com/in/angel-gonzalez-lopez-u1118/"> LinkedIn </a>
 
 ---
 
