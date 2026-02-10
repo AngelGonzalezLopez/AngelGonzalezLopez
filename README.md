@@ -2,7 +2,7 @@
   <img src="banner.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Angel Gonzalez Lopez</h1>
+<h1 align="center">ANGEL GONZALEZ LOPEZ</h1>
 <p align="center">
   Web Systems Developer · Student · Always learning
 </p>
@@ -14,7 +14,7 @@
 
 ---
 
-<h2 align="center">About Me</h2>
+<h2 align="center">ABOUT ME</h2>
 
 <p align="center">
 💼 <strong>Web systems developer</strong> working on real projects in a microbusiness.<br>
@@ -24,7 +24,7 @@
 
 
 ---
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">TECH STACK</h2>
  
 <p align=:"center">
   <img src="https://img.shields.io/badge/HTML-161b22?style=flat&logo=html5" align=:"center">
@@ -35,15 +35,19 @@
 </p>
 
 ---
-<h2 align="center">Soft Skills</h2>
+<h2 align="center">SOFT SKILLS</h2>
 
 <p align="center"> 🧠 Problem Solving · 📚 Self-learning · 🤝 Teamwork · 🔄 Adaptability · ✅ Responsibility </p>
 
- 
+
+<h2 align="center">MY CERTIFICATIONS</h2>
+<a href="CSS_Essentials_certificate.pdf" target="_blank"> CSS ESSENTIALS </a>
+<a href="HTML_Essentials_certificate.pdf" target="_blank"> HTML ESSENTIALS </a>
+<a href="Python_Essentials_1_certificate.pdf" target="_blank"> PYTHON ESSENTIALS 1 </a>
 
 
 ---
-<h2 align="center">Current Projects</h2>
+<h2 align="center">CURRENT PROJECTS</h2>
 
 <table>
   <tr>
