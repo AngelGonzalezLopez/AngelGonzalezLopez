@@ -26,7 +26,7 @@
 ---
 <h2 align="center">TECH STACK</h2>
  
-<p align=:"center">
+<p>
   <img src="https://img.shields.io/badge/HTML-161b22?style=flat&logo=html5" align=:"center">
   <img src="https://img.shields.io/badge/CSS-161b22?style=flat&logo=css3&logoColor=blue" align=:"center">
   <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat&logo=javascript" align=:"center">
@@ -41,11 +41,30 @@
 
 
 <h2 align="center">MY CERTIFICATIONS</h2>
-<p align="center">
-<a href="CSS_Essentials_certificate.pdf" target="_blank"> CSS ESSENTIALS </a> <br>
-<a href="HTML_Essentials_certificate.pdf" target="_blank"> HTML ESSENTIALS </a> <br>
-<a href="Python_Essentials_1_certificate.pdf" target="_blank"> PYTHON ESSENTIALS 1 </a> <br>
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="CSS_Essentials_certificate.pdf" target="_blank">
+        <img src="css.png" width="150"><br>
+        CSS ESSENTIALS
+      </a>
+    </td>
+    <td align="center">
+      <a href="HTML_Essentials_certificate.pdf" target="_blank">
+        <img src="html.png" width="150"><br>
+        HTML ESSENTIALS
+      </a>
+    </td>
+    <td align="center">
+      <a href="Python_Essentials_1_certificate.pdf" target="_blank">
+        <img src="python1.png" width="150"><br>
+        PYTHON ESSENTIALS 1
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 ---
